@@ -19,7 +19,7 @@ for dir in "${subDirectories[@]}"
 #  $srcDir = "$srcDirectory/$dir";
   printf "source directory is $dir\n";
 
-  find $dir -iname "*.jpg" > ToBeAnalyzed;
+  find $dir -iname "*.jpg" >> ToBeAnalyzed;
   find $dir -iname "*.MOV" >> ToBeAnalyzed; 
 }
 
