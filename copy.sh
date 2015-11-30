@@ -1,7 +1,7 @@
 #!/bin/bash
 
-srcDirectory="/Users/tongpingliu/Pictures/iPhoto Library.photolibrary/Previews";
-destDirectory="/Volumes/FreeAgent GoFlex Drive 1/picture/backup";
+srcDirectory="SOURCE_DIRECTORY";
+destDirectory="DEST_DIRECTORY";
 subDirectories=("2014" "2015");
 printf "$srcDirectory\n";
 
