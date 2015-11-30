@@ -86,8 +86,8 @@ while read file; do
  
   # Otherwise, copy to the new directory. 
 
-done < mytest;
-#done < ToBeAnalyzed;
+#done < mytest;
+done < ToBeAnalyzed;
 #mytest;
 
 
