@@ -1,10 +1,10 @@
 #!/bin/bash
 
-srcDirectory="/Users/tongpingliu/Pictures/iPhoto Library_3.photolibrary/Masters/2018/"
+srcDirectory="/Users/tongpingliu/Pictures/iPhoto Library_2.photolibrary/Masters/2019/"
 #20180615-183907"
 #/Users/tongpingliu/Pictures/iPhoto Library_2.photolibrary/Masters";
-destDirectory="/Volumes/FreeAgent GoFlex Drive 2/picture/backup";
-subDirectories=("06");
+destDirectory="/Volumes/FreeAgent GoFlex Drive/picture/backup";
+subDirectories=("05");
 #subDirectories=("2014" "2015" "2016");
 printf "$srcDirectory\n";
 
